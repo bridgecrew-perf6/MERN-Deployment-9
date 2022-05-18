@@ -1,0 +1,24 @@
+.authtable{
+    margin: 10px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.authtable th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: darkgray;
+    color: white;
+    padding: 10px;
+}
+
+.authtable td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.authtable td:first-child{
+    color:blueviolet;
+    padding: 10px;
+}

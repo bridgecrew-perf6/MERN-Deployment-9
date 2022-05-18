@@ -1,0 +1,10 @@
+.delbtn{
+    background-image: linear-gradient(to top, #1D2B64 0%, #F8CDDA  100%);
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    width: 110px;
+}
